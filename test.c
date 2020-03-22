@@ -4,6 +4,7 @@
 int main (void)
 {
 	int value = 10;
+	char string[15] = {"Ola pessoas"};
 
 	for(int i = 0; i < value; i++)
 	{
